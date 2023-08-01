@@ -16,3 +16,5 @@ _Italic text_
 
 <sub>This is a subscript text</sub>
 
+> Text that is quote
+
