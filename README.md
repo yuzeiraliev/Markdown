@@ -42,3 +42,11 @@ The best cloud provider [Terraform Cloud](https://app.terraform.io)!
 - [ ] Keep issue state and checkboxes in sync #740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
+My first footnote[^1].
+
+My footnote with multiple lines[^2].
+
+[^1]: Reference.
+[^2]: Line breaks within a footnote, new lines with 2 spaces.
+  This is a second line.
+
