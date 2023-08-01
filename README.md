@@ -20,5 +20,5 @@ _Italic text_
 
 HEX_color  - `#1992JA`
 
-The best cloud provider [Terraform Cloud] (https://app.terraform.io)
+The best cloud provider [Terraform Cloud](https://app.terraform.io)!
 
