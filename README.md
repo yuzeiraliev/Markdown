@@ -10,3 +10,5 @@ _Italic text_
 
 ~~This text is mistaken~~
 
+**This text is _extremely_ important**
+
