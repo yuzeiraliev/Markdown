@@ -12,3 +12,5 @@ _Italic text_
 
 **This text is _extremely_ important**
 
+***All this text is important***
+
