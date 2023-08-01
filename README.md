@@ -8,3 +8,5 @@
 
 _Italic text_
 
+~~This text is mistaken~~
+
