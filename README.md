@@ -14,3 +14,5 @@ _Italic text_
 
 ***All this text is important***
 
+<sub>This is a subscript text</sub>
+
