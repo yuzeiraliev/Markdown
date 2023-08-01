@@ -38,7 +38,7 @@ The best cloud provider [Terraform Cloud](https://app.terraform.io)!
    - First nested list item
      - Second nested list item 
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [x] Convert text into issue #739
+- [ ] Keep issue state and checkboxes in sync #740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
